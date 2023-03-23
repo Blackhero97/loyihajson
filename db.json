@@ -1,0 +1,28 @@
+{
+  "elements": [
+    {
+      "img": "https://reactbikeimgs.netlify.app/bikeone.svg",
+      "title": "Nimbus Stark",
+      "text": "A Nimbus Stark é a melhor Bikcraft já criada pela nossa equipe. Ela vem equipada com os melhores acessórios, o que garante maior velocidade. ",
+      "btn": "MAIS SOBRE -->",
+      "id": 1,
+      "price": "R$4.999"
+    },
+    {
+      "img": "https://reactbikeimgs.netlify.app/biketwo.svg",
+      "title": "Magic Migth ",
+      "text": "A Magic Migth é a melhor Bikcraft já criada pela nossa equipe. Ela vem equipada com os melhores acessórios, o que garante maior velocidade.  ",
+      "btn": "MAIS SOBRE -->",
+      "id": 2,
+      "price": "R$4.999"
+    },
+    {
+      "img": "https://reactbikeimgs.netlify.app/bikethree.svg",
+      "title": "Mebula Cosmic",
+      "text": "A Mebula Cosmic é a melhor Bikcraft já criada pela nossa equipe. Ela vem equipada com os melhores acessórios, o que garante maior velocidade.  ",
+      "btn": "MAIS SOBRE -->",
+      "id": 3,
+      "price": "R$4.999"
+    }
+  ]
+}
